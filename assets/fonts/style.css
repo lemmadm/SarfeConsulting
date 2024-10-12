@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'title1';
+   font-display: swap;
+   src: url('title1/font.ttf');
+}
+@font-face {
+   font-family: 'title2';
+   font-display: swap;
+   src: url('title2/font.ttf');
+}
+@font-face {
+   font-family: 'menu';
+   font-display: swap;
+   src: url('menu/font.ttf');
+}
+@font-face {
+   font-family: 'text';
+   font-display: swap;
+   src: url('text/font.ttf');
+}
