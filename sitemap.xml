@@ -1,41 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://sarfeconsulting.com/index.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/about.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/services.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/contact.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/book.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/engage.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/finance.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/bookkeeping.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/accounting.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/business-adv.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/payroll.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/taxation.html</loc>
-	</url>
-	<url>
-		<loc>http://sarfeconsulting.com/finance_consult.html</loc>
-	</url>
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.sarfeconsulting.com/</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Contact Us Page -->
+    <url>
+        <loc>https://www.sarfeconsulting.com/contact</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Schedule Booking Page -->
+    <url>
+        <loc>https://www.sarfeconsulting.com/schedule</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Our Services Page -->
+    <url>
+        <loc>https://www.sarfeconsulting.com/services</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- About Us Page -->
+    <url>
+        <loc>https://www.sarfeconsulting.com/about</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Service-specific Pages -->
+    <url>
+        <loc>https://www.sarfeconsulting.com/accounting-system-setup</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sarfeconsulting.com/bookkeeping-accounting</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sarfeconsulting.com/financial-analysis</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sarfeconsulting.com/payroll-accounting</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sarfeconsulting.com/tax-preparation</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sarfeconsulting.com/financial-consulting</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sarfeconsulting.com/business-advisory</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
